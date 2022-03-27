@@ -1,0 +1,23 @@
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  background-color: lightblue;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  border-bottom: solid;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: pink;
+}
+
+img {
+  border: solid 2px ;
+}
